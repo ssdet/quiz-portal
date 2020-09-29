@@ -1,2 +1,2 @@
 # quiz-portal
-A programming contest portal tailored for SOET
+A quiz contest portal tailored for SOET
